@@ -1,0 +1,9 @@
+build/
+cmake-build-debug/
+.vscode/
+.idea/
+.cache/
+__pycache__
+data*/
+output*/
+*.zip
